@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.flexCont{
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin: 20px 10px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.34);
+}
+.btn a {
+  color: #fff;
+}
+.passengers-list-title,.ReactTable .rt-tbody .rt-td{
+  text-align: center;
+}
